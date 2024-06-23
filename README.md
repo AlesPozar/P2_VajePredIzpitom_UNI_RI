@@ -8,3 +8,8 @@
   <li>rešitve nekaterih dodatnih nalog v zbirki prog2_staro</li>
 </ul>
 <p>pa GL na izpitu 🫡</p>
+
+
+
+
+<p>NOTE: po objavi je GitHub na tekstovnih dokumentih spremenil zaključke iz LF v CRLF, tako je možno, da nekatere naloge ne delujejo "pravlino" -> če je bila v njih npr. uporabljena funkcija fgets().</p>
